@@ -3,11 +3,11 @@
   <title>陶同学</title>
   <icon>https://www.gravatar.com/avatar/9595ec99500944e4b5c17ba88a514433</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://taomimi.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://taomimi.github.io/"/>
   <updated>2022-08-22T11:34:57.125Z</updated>
-  <id>http://example.com/</id>
+  <id>https://taomimi.github.io/</id>
   
   <author>
     <name>陶同学</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/08/22/hello-world/"/>
-    <id>http://example.com/2022/08/22/hello-world/</id>
+    <link href="https://taomimi.github.io/2022/08/22/hello-world/"/>
+    <id>https://taomimi.github.io/2022/08/22/hello-world/</id>
     <published>2022-08-22T11:53:57.015Z</published>
     <updated>2022-08-22T11:34:57.125Z</updated>
     
