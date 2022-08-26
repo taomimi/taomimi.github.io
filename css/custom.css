@@ -173,9 +173,9 @@ div#category {
   width: 10px;
   height: 10px;
 }
-
+/*原颜色为蓝色#49b1f5*/
 ::-webkit-scrollbar-thumb {
-  background-color: #49b1f5;
+  background-color: #00ff00;
   border-radius: 2em;
 }
 
@@ -185,7 +185,7 @@ div#category {
 
 ::-moz-selection {
   color: #fff;
-  background-color: #49b1f5;
+  background-color: #00ff00;
 }
 
 /* 音乐播放器 */
