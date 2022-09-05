@@ -3,11 +3,11 @@
   <title>陶同学</title>
   <icon>https://www.gravatar.com/avatar/9595ec99500944e4b5c17ba88a514433</icon>
   <subtitle>专心学习</subtitle>
-  <link href="https://taomimi.github.io/atom.xml" rel="self"/>
+  <link href="https://taotongxue.love/atom.xml" rel="self"/>
   
-  <link href="https://taomimi.github.io/"/>
+  <link href="https://taotongxue.love/"/>
   <updated>2022-08-30T05:18:41.421Z</updated>
-  <id>https://taomimi.github.io/</id>
+  <id>https://taotongxue.love/</id>
   
   <author>
     <name>陶同学</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo迁移主机</title>
-    <link href="https://taomimi.github.io/posts/5b641f5d.html"/>
-    <id>https://taomimi.github.io/posts/5b641f5d.html</id>
+    <link href="https://taotongxue.love/posts/5b641f5d.htmlhex"/>
+    <id>https://taotongxue.love/posts/5b641f5d.htmlhex</id>
     <published>2022-08-28T03:18:53.000Z</published>
     <updated>2022-08-30T05:18:41.421Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="Hexo" scheme="https://taomimi.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://taotongxue.love/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>校内学习计划</title>
-    <link href="https://taomimi.github.io/posts/8d7c99ac.html"/>
-    <id>https://taomimi.github.io/posts/8d7c99ac.html</id>
+    <link href="https://taotongxue.love/posts/8d7c99ac.htmlhex"/>
+    <id>https://taotongxue.love/posts/8d7c99ac.htmlhex</id>
     <published>2022-08-27T15:28:39.000Z</published>
     <updated>2022-08-28T03:31:31.717Z</updated>
     
@@ -58,17 +58,17 @@
     
     
     
-    <category term="行动规划" scheme="https://taomimi.github.io/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/"/>
+    <category term="行动规划" scheme="https://taotongxue.love/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/"/>
     
     
-    <category term="目标" scheme="https://taomimi.github.io/tags/%E7%9B%AE%E6%A0%87/"/>
+    <category term="目标" scheme="https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/"/>
     
   </entry>
   
   <entry>
     <title>自我介绍</title>
-    <link href="https://taomimi.github.io/posts/bdae0d9b.html"/>
-    <id>https://taomimi.github.io/posts/bdae0d9b.html</id>
+    <link href="https://taotongxue.love/posts/bdae0d9b.htmlhex"/>
+    <id>https://taotongxue.love/posts/bdae0d9b.htmlhex</id>
     <published>2022-08-25T02:22:27.000Z</published>
     <updated>2022-08-30T05:45:41.977Z</updated>
     
@@ -87,8 +87,8 @@
   
   <entry>
     <title>缺乏动力来看这</title>
-    <link href="https://taomimi.github.io/posts/4065adef.html"/>
-    <id>https://taomimi.github.io/posts/4065adef.html</id>
+    <link href="https://taotongxue.love/posts/4065adef.htmlhex"/>
+    <id>https://taotongxue.love/posts/4065adef.htmlhex</id>
     <published>2022-08-24T13:10:49.000Z</published>
     <updated>2022-08-30T05:40:51.616Z</updated>
     
@@ -105,10 +105,10 @@
     
     
     
-    <category term="行动规划" scheme="https://taomimi.github.io/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/"/>
+    <category term="行动规划" scheme="https://taotongxue.love/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/"/>
     
     
-    <category term="目标" scheme="https://taomimi.github.io/tags/%E7%9B%AE%E6%A0%87/"/>
+    <category term="目标" scheme="https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/"/>
     
   </entry>
   
