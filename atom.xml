@@ -39,21 +39,20 @@
   </entry>
   
   <entry>
-    <title>校内学习计划</title>
+    <title>校内个人规划</title>
     <link href="https://taotongxue.love/posts/8d7c99ac.html"/>
     <id>https://taotongxue.love/posts/8d7c99ac.html</id>
     <published>2022-08-27T15:28:39.000Z</published>
-    <updated>2022-08-28T03:31:31.717Z</updated>
+    <updated>2022-10-01T03:50:06.776Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="前期"><a href="#前期" class="headerlink" title="前期"></a>前期</h1><p><strong>第一重要的：</strong></p><blockquote><ul><li>首先把本专业知识学好，再考虑其他课外。</li><li>期间积极参加本专业相关比赛及考证，有意义的活动也能参加几个。</li><li>基础知识不能落下，数学、英语、政治对后期升学很有帮助。</li></ul></blockquote><h2 id="课外方向"><a href="#课外方向" class="headerlink" title="课外方向"></a>课外方向</h2><p><strong>上面没学好，下面不准学！！</strong></p><blockquote><ol><li>Python程序设计</li><li>更新个人博客</li><li>算法</li><li>前端学习HTML/CSS</li><li>计算机网络</li><li>写日记总结当前状况</li></ol></blockquote><h2 id="临近升学期"><a href="#临近升学期" class="headerlink" title="临近升学期"></a>临近升学期</h2><blockquote><ul><li>确定报考学校</li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<div class="tip home"><p>不忘初心，美好生活是靠坚持不懈。</p></div><h1 id="前期"><a href="#前期" class="headerlink" title="前期"></a>前期</h1><p><strong>第一重要的：</strong></p><blockquote><ul><li><div class="checkbox green"><input type="radio">            <p>首先把本专业知识学好，再考虑其他课外。</p>            </div></li><li><div class="checkbox green"><input type="radio">            <p>期间积极参加本专业相关比赛及考证，有意义的活动也能参加几个。</p>            </div></li><li><div class="checkbox green"><input type="radio">            <p>基础知识不能落下，数学、英语、政治对后期升学很有帮助。</p>            </div></li><li><div class="checkbox red"><input type="radio">            <p>建立有有价值的圈子(学习圈)</p>            </div></li></ul></blockquote><h2 id="课外方向"><a href="#课外方向" class="headerlink" title="课外方向"></a>课外方向</h2><p><strong>上面没学好，下面不准学！！</strong></p><blockquote><ol><li>Python程序设计</li><li>更新个人博客</li><li>算法</li><li>前端学习HTML/CSS</li><li>计算机网络</li><li>写日记总结当前状况</li></ol></blockquote><h2 id="临近升学期"><a href="#临近升学期" class="headerlink" title="临近升学期"></a>临近升学期</h2><blockquote><ul><li><div class="checkbox green checked"><input type="checkbox" checked="checked">            <p>确定报考学校</p>            </div></li><li>英语</li><li>政治 </li><li>计算机</li><li>专业课</li></ul></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;前期&quot;&gt;&lt;a href=&quot;#前期&quot; class=&quot;headerlink&quot; title=&quot;前期&quot;&gt;&lt;/a&gt;前期&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;第一重要的：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;首先把本专业知识学好，再考虑其他课外。&lt;</summary>
+    <summary type="html">&lt;div class=&quot;tip home&quot;&gt;&lt;p&gt;不忘初心，美好生活是靠坚持不懈。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&quot;前期&quot;&gt;&lt;a href=&quot;#前期&quot; class=&quot;headerlink&quot; title=&quot;前期&quot;&gt;&lt;/a&gt;前期&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;第一重要的：&lt;/s</summary>
       
     
     
@@ -90,9 +89,9 @@
     <link href="https://taotongxue.love/posts/4065adef.html"/>
     <id>https://taotongxue.love/posts/4065adef.html</id>
     <published>2022-08-24T13:10:49.000Z</published>
-    <updated>2022-08-30T05:40:51.616Z</updated>
+    <updated>2022-10-01T03:27:47.717Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip bolt faa-horizontal animated"><p>切记，所谓难事只是开头难罢了。</p></div><blockquote><p>一个人如果找不到自己行动的正确方向，那他所做的一切努力都是徒劳。</p><footer><strong>陶同学</strong><cite><方向比努力更重要></方向比努力更重要></cite></footer></blockquote><blockquote><p>成功需要坚持，前提是你坚持的是正确的方向。坚持错误的方向却始终不愿修正，只能把你引向失败。</p><footer><strong>陶同学</strong><cite><别坚持错了></别坚持错了></cite></footer></blockquote><div class="tip success faa-horizontal animated-hover"><p>希望对你有所启发，一定要行动起来！</p></div>]]></content>
+    <content type="html"><![CDATA[<div class="tip bolt faa-horizontal animated"><p>切记，所谓难事只是开头难罢了。</p></div><blockquote><p>一个人如果找不到自己行动的正确方向，那他所做的一切努力都是徒劳。</p><footer><strong>陶同学</strong><cite><方向比努力更重要></方向比努力更重要></cite></footer></blockquote><blockquote><p>成功需要坚持，前提是你坚持的是正确的方向。坚持错误的方向却始终不愿修正，只能把你引向失败。</p><footer><strong>陶同学</strong><cite><别坚持错了></别坚持错了></cite></footer></blockquote><blockquote><p>你为什么还没有成功？因为你没有目标和动力。</p><p>为什么有了这一切，你还是没有成功？因为你没有做出任何行动！</p><p>所以的成功都来自行动，只有行动才能让你的梦想变为现实。</p><footer><strong>陶同学</strong><cite><把握机会，做最有行动力的自己></把握机会，做最有行动力的自己></cite></footer></blockquote><div class="tip success faa-horizontal animated-hover"><p>希望对你有所启发，一定要行动起来！</p></div>]]></content>
     
     
       
