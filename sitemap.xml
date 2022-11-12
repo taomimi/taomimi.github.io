@@ -85,22 +85,22 @@
 
   <url>
     <loc>https://taotongxue.love/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <lastmod>2022-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://taotongxue.love/tags/Hexo/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/</loc>
+    <lastmod>2022-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>https://taotongxue.love/tags/Hexo/</loc>
+    <lastmod>2022-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -109,7 +109,7 @@
   
   <url>
     <loc>https://taotongxue.love/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <lastmod>2022-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
