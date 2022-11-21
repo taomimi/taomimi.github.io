@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>https://taotongxue.love/posts/bdae0d9b.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://taotongxue.love/posts/492475cd.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://taotongxue.love/ShareLife/index.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://taotongxue.love/posts/8d7c99ac.html</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -32,24 +59,6 @@
     <loc>https://taotongxue.love/posts/4065adef.html</loc>
     
     <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://taotongxue.love/posts/bdae0d9b.html</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://taotongxue.love/ShareLife/index.html</loc>
-    
-    <lastmod>2022-10-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -101,14 +110,14 @@
 
   
   <url>
-    <loc>https://taotongxue.love/tags/Hexo/</loc>
+    <loc>https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/</loc>
+    <loc>https://taotongxue.love/tags/Hexo/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
