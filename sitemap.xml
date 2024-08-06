@@ -2,43 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://taotongxue.love/posts/492475cd.html</loc>
+    <loc>https://taomimi.github.io/posts/492475cd.html</loc>
     
-    <lastmod>2023-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://taotongxue.love/posts/bdae0d9b.html</loc>
-    
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2024-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/posts/2cb3e0c5.html</loc>
+    <loc>https://taomimi.github.io/posts/bdae0d9b.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://taotongxue.love/posts/4065adef.html</loc>
-    
-    <lastmod>2022-12-13</lastmod>
+    <lastmod>2024-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/ShareLife/index.html</loc>
+    <loc>https://taomimi.github.io/posts/4065adef.html</loc>
+    
+    <lastmod>2024-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://taomimi.github.io/posts/2cb3e0c5.html</loc>
+    
+    <lastmod>2024-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://taomimi.github.io/posts/8d7c99ac.html</loc>
+    
+    <lastmod>2024-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://taomimi.github.io/ShareLife/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://taotongxue.love/posts/8d7c99ac.html</loc>
+    <loc>https://taomimi.github.io/posts/5b641f5d.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -56,16 +65,7 @@
   </url>
   
   <url>
-    <loc>https://taotongxue.love/posts/5b641f5d.html</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://taotongxue.love/photos/index.html</loc>
+    <loc>https://taomimi.github.io/photos/index.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://taotongxue.love/categories/index.html</loc>
+    <loc>https://taomimi.github.io/categories/index.html</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://taotongxue.love/tags/index.html</loc>
+    <loc>https://taomimi.github.io/tags/index.html</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://taotongxue.love/manifest.json</loc>
+    <loc>https://taomimi.github.io/manifest.json</loc>
     
     <lastmod>2022-08-24</lastmod>
     
@@ -102,23 +102,23 @@
   
 
   <url>
-    <loc>https://taotongxue.love/</loc>
-    <lastmod>2023-08-24</lastmod>
+    <loc>https://taomimi.github.io/</loc>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://taotongxue.love/tags/%E7%9B%AE%E6%A0%87/</loc>
-    <lastmod>2023-08-24</lastmod>
+    <loc>https://taomimi.github.io/tags/%E7%9B%AE%E6%A0%87/</loc>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/tags/Hexo/</loc>
-    <lastmod>2023-08-24</lastmod>
+    <loc>https://taomimi.github.io/tags/Hexo/</loc>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -126,15 +126,15 @@
 
   
   <url>
-    <loc>https://taotongxue.love/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2023-08-24</lastmod>
+    <loc>https://taomimi.github.io/categories/%E8%A1%8C%E5%8A%A8%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://taotongxue.love/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2023-08-24</lastmod>
+    <loc>https://taomimi.github.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
